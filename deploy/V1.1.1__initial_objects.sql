@@ -44,6 +44,6 @@ VALUES
 -- Insert Data into Department
 INSERT INTO RAW.DBT_RAW.Department (DepartmentID, DepartmentName, ManagerID, Location, Budget)
 VALUES
-    (1, 'Human Resources', 1, 'Building A', 200000.00),
+    (1, 'Human Resources', 1, 'gdf A', 200000.00),
     (2, 'IT', 2, 'Building B', 500000.00),
     (3, 'Finance', 3, 'Building C', 300000.00);
